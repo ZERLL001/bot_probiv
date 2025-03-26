@@ -20,7 +20,7 @@ secret = 'dadata secret'
 dadata = DadataAsync(token, secret)
 dadata_for_inn = Dadata(token)
 
-LEAKOSINT_API_KEY = "6262648152:AEx1jTW8"
+LEAKOSINT_API_KEY = "ваш токен от leak osint  апи"
 
 def send_reques(request_text):
     url = 'https://leakosintapi.com/'

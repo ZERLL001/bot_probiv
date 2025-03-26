@@ -22,7 +22,7 @@ from search import (
 
 # Инициализация бота и диспетчера
 bot = Bot(
-    token='7227733030:AAGbLiSNeEmy1W9Gxf5N9hm3e9JVnpyVqmo',
+    token='ваш апи токен бота',
     default=DefaultBotProperties(parse_mode=ParseMode.HTML)
 )
 dp = Dispatcher()
